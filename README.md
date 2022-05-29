@@ -26,3 +26,16 @@ El cluster creado:
 4. Conexión y ejecución a Zeppelin:
 
 ![image](https://user-images.githubusercontent.com/46629861/170850358-25992ef4-1913-424a-b8d2-112f262f12cc.png)
+
+
+## Lab 01
+
+1. Lo primero es hacer el tutorial de https://github.com/ST0263/st0263-2022-1/blob/main/Big%20Data/01-hdfs/hdfs-scripts.txt luego de hacer SSH al nodo master:
+
+Se instala git, se clone el repo del profe y se pone la carpeta 'datasets' en root (`/`):
+
+Se sube el dataset de gutenberg-small a hdfs:
+
+![image](https://user-images.githubusercontent.com/46629861/170851419-61768ff6-951f-4f3e-b7a1-3d76f2d019c0.png)
+
+
