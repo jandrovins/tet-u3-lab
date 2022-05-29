@@ -15,3 +15,14 @@ Se cambia el tipo de instancias. En mi caso elegí on-demand para no depender de
 
 El cluster creado:
 ![image](https://user-images.githubusercontent.com/46629861/170850177-27e8be9b-af5a-43fb-8ab3-8f5235f08075.png)
+
+2. Acceso a Hue:
+
+![image](https://user-images.githubusercontent.com/46629861/170850323-bcc1d7b7-f9d8-4d93-8396-1ee280210b2b.png)
+
+3. Conexión a Jupyter y ejecución de notebook:
+![image](https://user-images.githubusercontent.com/46629861/170850342-8dd7d8a2-774c-4a44-9555-86667c304cad.png)
+
+4. Conexión y ejecución a Zeppelin:
+
+![image](https://user-images.githubusercontent.com/46629861/170850358-25992ef4-1913-424a-b8d2-112f262f12cc.png)
