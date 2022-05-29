@@ -42,3 +42,21 @@ Se suben todos los datasets:
 
 ![image](https://user-images.githubusercontent.com/46629861/170851483-06ff7fed-982e-4fa5-9947-a63efab93dea.png)
 
+### Gestión de archivos via Hue
+
+Subiendo archivos onu:
+
+![image](https://user-images.githubusercontent.com/46629861/170853029-3e7c5518-419d-4035-9bfc-591e0e45297b.png)
+
+Se ve el archivo correctamente:
+
+![image](https://user-images.githubusercontent.com/46629861/170853041-d4a4f129-8b7d-47f0-b0ef-8cffe9b865b3.png)
+
+Se sube a S3 via hue: 
+![image](https://user-images.githubusercontent.com/46629861/170853139-066d40d7-fb73-47bf-b53d-5ad47ae4e8f5.png)
+
+Se sube a S3 via SSH:
+
+![image](https://user-images.githubusercontent.com/46629861/170853372-4f730d28-b94a-478d-99c3-c59799659b36.png)
+
+![image](https://user-images.githubusercontent.com/46629861/170853446-a6ef805b-cd63-426b-b1f1-ed6d4dbff59f.png)
