@@ -38,4 +38,7 @@ Se sube el dataset de gutenberg-small a hdfs:
 
 ![image](https://user-images.githubusercontent.com/46629861/170851419-61768ff6-951f-4f3e-b7a1-3d76f2d019c0.png)
 
+Se suben todos los datasets:
+
+![image](https://user-images.githubusercontent.com/46629861/170851483-06ff7fed-982e-4fa5-9947-a63efab93dea.png)
 
